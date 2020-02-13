@@ -1,0 +1,33 @@
+.footer {
+	padding-top: 20px;
+	color: #fff;
+	font-size: 1.4rem;
+	background-color: #51499d;
+	background: linear-gradient(124deg,#4854a2,#4b51a1 6%,#772088);
+	&__copyright {
+		overflow: hidden;
+		min-height: 50px;
+		display: flex;
+		align-items: center;
+		padding: 10px 0px;
+		margin-top: 20px;
+		font-weight: 300;
+		color: rgba(255,255,255,0.8);
+		background-color: rgba(0,0,0,0.08);
+	}
+}
+
+.links {
+	a {
+		display: inline-block;
+		width: 20px;
+		height: 20px;
+		margin-right: 5px;
+		&:last-child {
+			margin-right: 0px;
+		}
+	}
+	svg {
+		fill: #fff;
+	}
+}
