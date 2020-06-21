@@ -1,2 +1,3 @@
-# repairs
+# Техпомощь
+
 - [Live preview](https://seryozhabaleyko.github.io/repairs/)
